@@ -1,2 +1,3 @@
 .ipynb_checkpoints
 chapter1/data/*
+chapter2/data/MNIST/raw/train-images-idx3-ubyte.gz
